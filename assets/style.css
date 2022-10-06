@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header, footer {
+    width: 100%; 
+    height: 120px;
+    background-color: #e6b400;
+    color: white;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+img {
+    display: block;
+    height: 50px;
+    width: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ul {
+    padding-left: 40px;
+    font-size: 20px;
+}
+
+p {
+    text-align: center;
+    font-size: 30px;
+}
+
+.card {
+    width: 80%;
+    margin:40px auto;
+    padding-bottom: 10px;
+    border: 2px solid grey;
+    /* box-shadow: 5px 10px #888888; */
+}
+
+/* learning keyboard shortcuts: cmd KC to comment */
+/* cmd enter to jump out of this to next line */
+/* cmd / to uncomment line */
+/* fn home/end to jump to beginning and end of lines */
